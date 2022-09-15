@@ -7,4 +7,4 @@ As a student who born in the era of centralized Web, it is hard to realize that 
 
 **Zack Goldberg**
 
-Berners-lee clearly has the forsight to plan for the potential worsening of the "world wide web" issues. I also think it is really cool that he is colabarating with regular software developers to work on his latest project
+Berners-lee clearly has the forsight to plan for the potential worsening of the "world wide web" issues. I also think it is really cool that he is colabarating with regular software developers to work on his latest project.
